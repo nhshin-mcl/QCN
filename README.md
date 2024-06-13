@@ -1,5 +1,5 @@
-# [CVPR2024] Blind Image Quality Assessment Based On Geometric Order Learning
-=============================================================================
+# [CVPR 2024] Blind Image Quality Assessment Based On Geometric Order Learning
+-----------------------------------------------------------------------------
 Official Pytorch Implementation of the CVPR 2024 paper, "Blind Image Quality Assessment Based on Geometric Order Learning."
 
 Paper
