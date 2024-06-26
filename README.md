@@ -1,5 +1,6 @@
 # [CVPR 2024] Blind Image Quality Assessment Based On Geometric Order Learning
 Official Pytorch Implementation of the CVPR 2024 paper, "Blind Image Quality Assessment Based on Geometric Order Learning."
+[Nyeong-Ho Shin](https://scholar.google.com/citations?user=dLCMcXMAAAAJ&hl=en), Seon-Ho Lee, Chang-Su Kim
 
 Paper
 -----------------------------------------------------------------------------
@@ -16,11 +17,11 @@ Dependencies
 
 Datasets
 -----------------------------------------------------------------------------
-- KonIQ10k [link](https://database.mmsp-kn.de/koniq-10k-database.html)
-- SPAQ [link](https://github.com/h4nwei/SPAQ)
-- BID [link](https://qualinet.github.io/databases/image/ufrj_blurred_image_database/)
-- CLIVE [link](https://live.ece.utexas.edu/research/ChallengeDB/index.html)
-- FLIVE [link](https://github.com/baidut/PaQ-2-PiQ)
+- [KonIQ10k](https://database.mmsp-kn.de/koniq-10k-database.html)
+- [SPAQ](https://github.com/h4nwei/SPAQ)
+- [BID](https://qualinet.github.io/databases/image/ufrj_blurred_image_database/)
+- [CLIVE](https://live.ece.utexas.edu/research/ChallengeDB/index.html)
+- [FLIVE](https://github.com/baidut/PaQ-2-PiQ)
 
 Train
 -----------------------------------------------------------------------------
@@ -47,5 +48,5 @@ See [MIT License](https://github.com/nhshin-mcl/QCN/blob/main/LICENSE)
 Acknowledgments
 -----------------------------------------------------------------------------
 This code is based on the below repos.
-* Geometric order learning [link](https://github.com/seon92/GOL)
-* kMaX-DeepLab [link](https://github.com/bytedance/kmax-deeplab)
+* [Geometric order learning](https://github.com/seon92/GOL)
+* [kMaX-DeepLab](https://github.com/bytedance/kmax-deeplab)
