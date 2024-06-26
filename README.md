@@ -29,6 +29,12 @@ To train QCN, run the below script.
 ```c
 python train.py
 ```
+- For other/custom dataset, please edit 'config_v1.py' and 'get_df_v1.py'.
+
+Pretrained files
+-----------------------------------------------------------------------------
+Please find examples of pretrained files at the [link](https://drive.google.com/drive/folders/1F7aBDsAgpNaVcdRhKc_xTY-MMi_RXffw).
+
 
 Cite
 -----------------------------------------------------------------------------
