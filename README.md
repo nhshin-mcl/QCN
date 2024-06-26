@@ -43,7 +43,7 @@ Cite
 
 License
 -----------------------------------------------------------------------------
-See [MIT License](https://github.com/nhshin-mcl/QCN/blob/main/LICENSE)
+See [MIT License](https://github.com/nhshin-mcl/QCN?tab=MIT-1-ov-file#readme)
 
 Acknowledgments
 -----------------------------------------------------------------------------
