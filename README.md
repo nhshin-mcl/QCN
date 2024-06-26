@@ -33,7 +33,7 @@ python train.py
 
 Pretrained files
 -----------------------------------------------------------------------------
-Pretrained files for examples of train and test splits of KonIQ10K and SPAQ are provided at the [link]https://drive.google.com/drive/folders/1F7aBDsAgpNaVcdRhKc_xTY-MMi_RXffw).
+Pretrained files for examples of train and test splits of KonIQ10K and SPAQ are provided at the [link](https://drive.google.com/drive/folders/1F7aBDsAgpNaVcdRhKc_xTY-MMi_RXffw).
 
 
 Cite
